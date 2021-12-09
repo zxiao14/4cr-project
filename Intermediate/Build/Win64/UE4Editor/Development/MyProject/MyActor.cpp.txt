@@ -1,0 +1,3 @@
+C:\Users\42026\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+c:\users\42026\desktop\myproject\source\myproject\MyActor.h
+C:\Users\42026\Desktop\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyActor.generated.h
